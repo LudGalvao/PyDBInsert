@@ -31,4 +31,4 @@ Antes de executar o programa, é necessário configurar os dados de conexão com
 server = "DESKTOP-BODCT7F"
 database = "Mercado"
 
-# Codigo funcionando
+
